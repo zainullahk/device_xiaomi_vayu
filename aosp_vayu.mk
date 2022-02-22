@@ -15,7 +15,7 @@ $(call inherit-product, device/xiaomi/vayu/device.mk)
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 # Boot Animation Resolution
-TARGET_BOOT_ANIMATION_RES := 1080
+TARGET_BOOT_ANIMATION_RES := 1440
 
 # Feature Flags
 TARGET_SUPPORTS_QUICK_TAP := true
