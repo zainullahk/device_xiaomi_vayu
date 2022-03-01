@@ -24,4 +24,4 @@ Front Camera | 20 MP, f/2.2, (wide), 1/3.4", 0.8µm
 
 ![POCO X3 Pro](https://1.bp.blogspot.com/-y0LQ--wuVBI/YQoJ-vcxm3I/AAAAAAAAHA4/aKAHIZ98MGsEnH-nSz6OiKK1b-SbiyVMgCLcBGAsYHQ/s2048/poco-x3-pro.png "Poco X3 Pro")
 
-Copyright (C) 2021 LineageOS
+Copyright (C) 2022 LineageOS
